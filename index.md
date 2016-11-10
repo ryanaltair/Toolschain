@@ -1,10 +1,10 @@
 # tools list that helpful
-1. Xmind 
+- [ ] Xmind 
     *  for mind map 
 2. Github 
    *  for Vesion Control
 3. Arduino
-    * develop for arduino project
+    * develop for arduino projects
 4. Fritzing 
     * for quick PCB desgin
 5. Visual Stduio Code 
