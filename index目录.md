@@ -17,7 +17,7 @@
 6. Resilio Sync(aka BTsync before)
     * for files share and sync 
     * 同步及分享文件
-7. QT creator
+7. QT creator *not recommended
     * for QT develop
     * QT开发
 8. Visual Stduio 2015 Community
