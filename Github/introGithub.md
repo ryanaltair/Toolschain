@@ -1,5 +1,5 @@
 # 关于 github
-用于版本控制
+用于版本控制与代码托管
 ## 术语:
 1. repositories 
     - 代码仓库
@@ -22,7 +22,7 @@
 6. publish 
     - 将commit 上传到服务器
     
-## 开发流程
+## how to
 1. fork a repo
 2. create a new branch named the develop option
 3. dev in this branch 
