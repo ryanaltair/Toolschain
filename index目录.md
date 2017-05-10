@@ -35,7 +35,8 @@
     * 快速PCB设计
 12. eaglePCB
     * PCB design with autoroute
-    * 用于PCB设计 可以自动布线
+    * 用于PCB设计 可以自动布线
+13. altium designer
 
 ## 其他
 
