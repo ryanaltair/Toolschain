@@ -3,8 +3,9 @@
 ## Document
 
 1. Xmind 
-    *  for mind map,replaced by mubu
+    *  for mind map,replaced by mubu now
 2. Mubu
+	*  get it at https://mubu.com/
 
 ## Software
 
@@ -19,14 +20,19 @@
     * opetional for dev in Windows
 9. Xcode 
     * only for develop in MacOS 
+	
+## Frameworks
+
 11. OpenFrameworks 
     * an easy-used framework in C++ that includes OpenGL and Assimp etc
 
+12. Arduino
+
 ## Firmware
 
-3. Arduino
+3. Arduino IDE
     * develop for arduino projects
-    * 开发arduino项目
+	* learn it at arduino.cc
 
 ## Hardware
 4. Fritzing 
