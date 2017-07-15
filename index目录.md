@@ -1,52 +1,46 @@
 # tools list that helpful
-## 文档类
+
+## Document
 
 1. Xmind 
-    *  for mind map 
-    * 思维导图软件
-2. 幕布
-## 开发类
+    *  for mind map,replaced by mubu
+2. Mubu
+
+## Software
 
 2. Github 
    *  for Vesion Control
-   * 用于版本控制
 5. Visual Stduio Code 
     * for text(code exactly)edit
-    * 文本(代码)编辑 
 7. QT creator *less used
     * for QT develop
-    * QT开发
 8. Visual Stduio 2015 Community
-    * opetional for dev in Windows
-    * windows下开发
+    * may updaate to 2017
+    * opetional for dev in Windows
 9. Xcode 
-    * opetional for dev in MacOS
-    * Mac下开发  
+    * only for develop in MacOS 
 11. OpenFrameworks 
-    * a helpful framework in C++ that includes OpenGL and Assimp etc
-    * 一个快速开发框架 集成了OpenGL 与 Assimp 等等
+    * an easy-used framework in C++ that includes OpenGL and Assimp etc
 
-## 电路类
+## Firmware
+
 3. Arduino
     * develop for arduino projects
     * 开发arduino项目
+
+## Hardware
 4. Fritzing 
-    * for quick PCB desgin
-    * 快速PCB设计
+    * only for very quick PCB desgin and Arduino board based projects
 12. eaglePCB
-    * PCB design with autoroute
-    * 用于PCB设计 可以自动布线
+    * PCB design, more pro
 13. altium designer
+    * much pro option
 
 ## 其他
 
 6. Resilio Sync(aka BTsync before)
-    * for files share and sync 
-    * 同步及分享文件
+    * for files share and sync in wlan
 10. NydusVPN
-    * a helpful vpn
-    * 为了自由
+    * a helpful and stable vpn
 
 
-13. to be added
-    *待添加
